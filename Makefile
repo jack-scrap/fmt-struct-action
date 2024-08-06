@@ -1,6 +1,6 @@
 CC=gcc
 
-EXEC=a.out
+EXEC=action
 
 DEPS=wrap
 
