@@ -2,6 +2,8 @@ CC=gcc
 
 EXEC=a.out
 
+DEPS=wrap
+
 BUILDDIR=build
 
 PREFIX=/usr/local
